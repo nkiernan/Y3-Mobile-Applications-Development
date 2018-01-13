@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: gson
+Bundle-Name: gson
+Bundle-Version: 2.8.1
+Built-By: nkier
+Bnd-LastModified: 1512145129946
+Bundle-ManifestVersion: 2
+Build-Jdk: 1.8.0_151
+Created-By: 1.8.0_151 (Oracle Corporation)
+Tool: Bnd-3.1.0.201512181341
+

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Sensor App</string>
+    <string name="main_label">Select a Sensor:</string>
+    <string name="sensor_details_label">Sensor Details:</string>
+    <string name="user_id_label">User ID: </string>
+    <string name="name_label">Name: </string>
+    <string name="value_label">Value: </string>
+    <string name="timestamp_label">Timestamp: </string>
+    <string name="unknown_sensor_value">Unknown</string>
+    <string name="get_data_button">Get Data</string>
+    <string name="send_data_button">Send Data</string>
+    <string name="minimum_label">000</string>
+    <string name="mid_label">500</string>
+    <string name="maximum_label">999</string>
+    <string name="default_slider_value">0</string>
+    <string name="current_user_label">Current User: </string>
+    <string name="default_user_text">15088410</string>
+</resources>

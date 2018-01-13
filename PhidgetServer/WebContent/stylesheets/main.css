@@ -1,0 +1,31 @@
+#container {
+	width: 660px;
+	margin: 30px auto 0;
+	padding: 8px;
+	background-color: #636D76;
+    border: 1px solid #494E52;
+}
+
+#container > div {
+	background-color: #FFFFFF;
+    background-image: url("../images/content_bottom.jpg");
+    background-position: center bottom;
+    background-repeat: repeat-x;
+    border: 1px solid #464C54;
+    padding: 10px;
+}
+
+#container h1 {
+	font-size: 15px;
+	margin: 0 0 8px;
+}
+
+#lastRequest {
+	width: 680px;
+	margin: 10px auto;
+	font-size: 12px;
+}
+
+.vjs-loading-spinner {
+	display: none !important;
+}
